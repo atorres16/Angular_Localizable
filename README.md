@@ -122,8 +122,3 @@
 
 ## References
 * https://angular.io/guide/i18n
-* https://angular.io/guide/i18n
-* https://angular.io/guide/i18n
-* https://angular.io/guide/i18n
-* https://angular.io/guide/i18n
-* https://angular.io/guide/i18n
